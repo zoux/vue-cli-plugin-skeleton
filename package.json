@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-skeleton",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "vue-cli 3 plugin to add skeleton",
   "main": "index.js",
   "repository": {
