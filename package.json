@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-skeleton",
+  "version": "0.0.1",
+  "description": "vue-cli 3 plugin to add skeleton",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoux/vue-cli-plugin-skeleton.git"
+  },
+  "keywords": [
+    "vue-cli-plugin-skeleton",
+    "skeleton",
+    "vue",
+    "vue-cli",
+    "vue-cli-plugin"
+  ],
+  "author": "zoux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoux/vue-cli-plugin-skeleton/issues"
+  },
+  "homepage": "https://github.com/zoux/vue-cli-plugin-skeleton#readme"
+}
