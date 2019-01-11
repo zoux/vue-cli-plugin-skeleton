@@ -40,6 +40,7 @@ module.exports = {
 ```
 
 [vue-skeleton-webpack-plugin 配置说明](https://github.com/lavas-project/vue-skeleton-webpack-plugin)
+
 [vue-content-loader 配置说明](https://github.com/egoist/vue-content-loader)
 
 
