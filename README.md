@@ -20,9 +20,6 @@ module.exports = {
 
   configureWebpack: {
     plugins: [
-      new (require('vconsole-webpack-plugin'))({
-        enable: process.env.NODE_ENV === 'development'
-      }),
       new (require('vue-skeleton-webpack-plugin'))({
         webpackConfig: {
           entry: {
