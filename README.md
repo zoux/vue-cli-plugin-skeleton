@@ -6,7 +6,7 @@
 ## Use
 
 ```
-vue i @vue/cli -g
+npm i @vue/cli -g
 vue create my-app
 cd my-app
 vue add skeleton
